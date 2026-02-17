@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "透明スタートライン",
+  "base_artist": "E♡Star",
+  "createdAt": "2026-02-17T05:32:57.448597Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "透明スタートライン",
+      "artist": "E♡Star",
+      "has_synced": false,
+      "path": "select/pl_01_透明スタートライン_E♡Star.txt"
+    }
+  ]
+}
